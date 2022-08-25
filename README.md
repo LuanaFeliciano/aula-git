@@ -1,7 +1,5 @@
 # Aula de GIT - UNIMAR
 
 * aula de git
-* Ettore
-* commits
-
-* 2 3 4
+1. Linha 1
+2. Linha 2
