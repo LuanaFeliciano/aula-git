@@ -6,6 +6,9 @@
 1. Linha 3
 
 ```php
-echo "Hello World"
+echo "Hello World";
 ```
 
+```python
+print("hello world")
+```
